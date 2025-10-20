@@ -2,11 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.soviets-ags.org/blog</id>
     <title>SOVIETS Blog</title>
-    <updated>2025-08-26T00:00:00.000Z</updated>
+    <updated>2025-10-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.soviets-ags.org/blog"/>
     <subtitle>SOVIETS Blog</subtitle>
     <icon>https://www.soviets-ags.org/img/logo1.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Charlie Chaplin contra el FBI]]></title>
+        <id>https://www.soviets-ags.org/blog/Charlie Chaplin contra el FBI</id>
+        <link href="https://www.soviets-ags.org/blog/Charlie Chaplin contra el FBI"/>
+        <updated>2025-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Recientemente terminamos el último ciclo de presentaciones en la revuelta, así que decidí escribir un poco sobre mi última presentación, para todos aquellos que no pudieron asistir, o simplemente prefieren un texto a tener que verme dar un performance en la revuelta.]]></summary>
+        <content type="html"><![CDATA[<p>Recientemente terminamos el último ciclo de presentaciones en la revuelta, así que decidí escribir un poco sobre mi última presentación, para todos aquellos que no pudieron asistir, o simplemente prefieren un texto a tener que verme dar un <em>performance</em> en la revuelta.</p>
+<p><img decoding="async" loading="lazy" alt="Contrahege" src="https://www.soviets-ags.org/assets/images/chaplin-b498fb6bfb4d2980fc70463f142b96b5.jpg" width="584" height="389" class="img_ev3q"></p>
+<p>La presentacion es del McCarthyismo (1946?-1960), un periodo en la historia política de EEUU en el que se persiguió y reprimió a grupos y personas asociadas con movimientos Rojos. Su nombre viene del senador J. McCarthy quien, aunque no inició, encarnó esta segunda ola de anti-communismo en los EEUU. En un discurso televisado afirmó contar con una lista de personas dentro del gobierno estadounidense, miembros del partido comunista.</p>
+<p>Si bien su manifestación 'formal' fue política con nueva legislación, formación de comités, contraespionaje, etc. se trata en gran parte de un fenómeno social. Fomentado por el racismo, clasismo, y demas ismos de la burguesia de Estados Unidos de 1950 acarreados de una larga tradición imperialista.</p>
+<p>Chaplin fue perseguido y expulsado de los estados unidos por sus lazos con comunistas, es un buen ejemplo de la represión no solo política, si no cultural, clntra cualquier clase de manifestación contra la cultura burgues de la época.</p>
+<p>Aunque dentro de hollywood hay ejemplos de autoritarismo mucho mas impactantes que el de chaplin, admitamoslo. Si la presentación se llamara "Hollywood v. el FBI", aunque interesante, todos conocemos mejor a Chaplin que a "Dalton Trumbo"</p>
+<p><a href="https://www.soviets-ags.org/assets/files/CHAPLIN-ccb1a6a18382935b0f6c1c3628d35ef4.pdf" target="_blank">puedes encontrar el PDF de la presentación aquí</a></p>
+<p><a href="https://www.soviets-ags.org/assets/files/chaplin%20TEXTO-f8f0cbf817838a13e305af0695958f22.pdf" target="_blank">puedes encontrar el guión de la presentación aqui</a></p>]]></content>
+        <author>
+            <name>Simon</name>
+        </author>
+        <category label="Revuelta" term="Revuelta"/>
+        <category label="docs" term="docs"/>
+        <category label="Charlie Chaplin" term="Charlie Chaplin"/>
+        <category label="blog" term="blog"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[La parte estética del clasismo]]></title>
         <id>https://www.soviets-ags.org/blog/La parte estética del clasismo</id>
