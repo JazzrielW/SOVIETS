@@ -4,10 +4,22 @@
         <title>SOVIETS Blog</title>
         <link>https://www.soviets-ags.org/blogsecreto</link>
         <description>SOVIETS Blog</description>
-        <lastBuildDate>Mon, 07 Jul 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Nov 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[ITS HIM]]></title>
+            <link>https://www.soviets-ags.org/blogsecreto/ITS HIM</link>
+            <guid>https://www.soviets-ags.org/blogsecreto/ITS HIM</guid>
+            <pubDate>Mon, 17 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[ITS HIM]]></description>
+            <content:encoded><![CDATA[<p>ITS HIM</p>
+<p><img decoding="async" loading="lazy" alt="HIM" src="https://www.soviets-ags.org/assets/images/HIM1-236363534756c9861be1d25ff4e076d6.jpg" width="1280" height="960" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="ME" src="https://www.soviets-ags.org/assets/images/HIM2-0beafe5e4f9d78b833a98e0110597ad1.jpg" width="720" height="1280" class="img_ev3q"></p>]]></content:encoded>
+            <category>meta</category>
+            <category>blog</category>
+        </item>
         <item>
             <title><![CDATA[¿Qué es este lugar?]]></title>
             <link>https://www.soviets-ags.org/blogsecreto/Sereto</link>
@@ -15,7 +27,7 @@
             <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Realmente no hay una buena explicación de qué se supone que irá en este lugar.]]></description>
             <content:encoded><![CDATA[<p>Realmente no hay una buena explicación de qué se supone que irá en este lugar.</p>
-<p>A diferencia de nuestro blog principal (<a href="https://www.soviets-ags.org/blog">justo aquí</a>), en este se publicarán textos sin tanto rigor investigativo, o incluso aquellos que no sigan una linea política. Si algo puede ser llamado "Bien hecho" o "Íntegro", entonces probablemente no acabará aquí. Sin embargo, espero que este sea un espacio libre que fomente el deseo de expresar y comunicarse, dando una plataforma a aquello que de otra manera acabaría deshauciado.</p>]]></content:encoded>
+<p>A diferencia de nuestro blog principal (<a class="" href="https://www.soviets-ags.org/blog">justo aquí</a>), en este se publicarán textos sin tanto rigor investigativo, o incluso aquellos que no sigan una linea política. Si algo puede ser llamado "Bien hecho" o "Íntegro", entonces probablemente no acabará aquí. Sin embargo, espero que este sea un espacio libre que fomente el deseo de expresar y comunicarse, dando una plataforma a aquello que de otra manera acabaría deshauciado.</p>]]></content:encoded>
             <category>meta</category>
             <category>blog</category>
         </item>

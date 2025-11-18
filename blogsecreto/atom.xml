@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.soviets-ags.org/blogsecreto</id>
     <title>SOVIETS Blog</title>
-    <updated>2025-07-07T00:00:00.000Z</updated>
+    <updated>2025-11-17T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.soviets-ags.org/blogsecreto"/>
     <subtitle>SOVIETS Blog</subtitle>
     <icon>https://www.soviets-ags.org/img/logo1.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ITS HIM]]></title>
+        <id>https://www.soviets-ags.org/blogsecreto/ITS HIM</id>
+        <link href="https://www.soviets-ags.org/blogsecreto/ITS HIM"/>
+        <updated>2025-11-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITS HIM]]></summary>
+        <content type="html"><![CDATA[<p>ITS HIM</p>
+<p><img decoding="async" loading="lazy" alt="HIM" src="https://www.soviets-ags.org/assets/images/HIM1-236363534756c9861be1d25ff4e076d6.jpg" width="1280" height="960" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="ME" src="https://www.soviets-ags.org/assets/images/HIM2-0beafe5e4f9d78b833a98e0110597ad1.jpg" width="720" height="1280" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Simon</name>
+        </author>
+        <category label="meta" term="meta"/>
+        <category label="blog" term="blog"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[¿Qué es este lugar?]]></title>
         <id>https://www.soviets-ags.org/blogsecreto/Sereto</id>
@@ -14,7 +29,7 @@
         <updated>2025-07-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Realmente no hay una buena explicación de qué se supone que irá en este lugar.]]></summary>
         <content type="html"><![CDATA[<p>Realmente no hay una buena explicación de qué se supone que irá en este lugar.</p>
-<p>A diferencia de nuestro blog principal (<a href="https://www.soviets-ags.org/blog">justo aquí</a>), en este se publicarán textos sin tanto rigor investigativo, o incluso aquellos que no sigan una linea política. Si algo puede ser llamado "Bien hecho" o "Íntegro", entonces probablemente no acabará aquí. Sin embargo, espero que este sea un espacio libre que fomente el deseo de expresar y comunicarse, dando una plataforma a aquello que de otra manera acabaría deshauciado.</p>]]></content>
+<p>A diferencia de nuestro blog principal (<a class="" href="https://www.soviets-ags.org/blog">justo aquí</a>), en este se publicarán textos sin tanto rigor investigativo, o incluso aquellos que no sigan una linea política. Si algo puede ser llamado "Bien hecho" o "Íntegro", entonces probablemente no acabará aquí. Sin embargo, espero que este sea un espacio libre que fomente el deseo de expresar y comunicarse, dando una plataforma a aquello que de otra manera acabaría deshauciado.</p>]]></content>
         <author>
             <name>Simon</name>
         </author>
