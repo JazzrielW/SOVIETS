@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[7691],{8334:s=>{s.exports=JSON.parse('{"blogTitle":"Blog Soviets","blogDescription":"Los \xfaltimos art\xedculos publicados por Soviets","totalPosts":6,"totalRecentPosts":5}')}}]);
