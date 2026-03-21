@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[9054],{3083:o=>{o.exports=JSON.parse('{"title":"Donde pisa el desarrollador, no florece el trabajador","description":"Nota a prop\xf3sito del 4 de julio","link":"/blog/Lo llaman renovaci\xf3n, pero es gentrificaci\xf3n"}')}}]);

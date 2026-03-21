@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[1155],{7969:s=>{s.exports=JSON.parse('{"title":"Editorial Soviets","description":"\xa1Tenemos una editorial! o algo as\xed.","link":"/blog/Editorial Soviets"}')}}]);
