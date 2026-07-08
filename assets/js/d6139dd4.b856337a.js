@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[1202],{166:e=>{e.exports=JSON.parse('{"title":"YoVoy... pero tarde y de malas","description":"La contradicci\xf3n en el sistema de movilidad de Aguascalientes","link":"/blog/YoVoy en Aguascalientes"}')}}]);

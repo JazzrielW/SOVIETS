@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[9054],{3083:e=>{e.exports=JSON.parse('{"title":"la definci\xf3n de locura","description":"La locura es hacer exactamente la misma mierda y esperar un resultado diferente","link":"/blog/la definci\xf3n de locura"}')}}]);

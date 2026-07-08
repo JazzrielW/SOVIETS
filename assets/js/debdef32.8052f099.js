@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaurus=globalThis.webpackChunkdocusaurus||[]).push([[4750],{4052:a=>{a.exports=JSON.parse('{"title":"No hay Agua en MIAA CAASA","description":"Imagen de un ni\xf1o protestando","link":"/blog/No hay Agua en MIAA CAASA"}')}}]);
